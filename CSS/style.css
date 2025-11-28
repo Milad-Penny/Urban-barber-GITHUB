@@ -1,0 +1,16 @@
+body {
+    background-image: url(../Assets/Wall.jpg);
+    border: 35px solid black;
+    margin: 0%;
+}
+
+html, body {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+    margin-top: 0%;
+}
