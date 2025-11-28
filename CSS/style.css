@@ -1,0 +1,10 @@
+body {
+    background-image: url(../Assets/Wall.jpg);
+    margin: 0;
+    border: 20px solid black;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
