@@ -9,8 +9,21 @@ html, body {
     box-sizing: border-box;
 }
 
-h1 {
-    text-align: center;
-    font-size: 75px;
-    margin-top: 0%;
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 25px;
 }
+
+ .title {
+    text-align: center;
+}
+
+.Logo {
+    color: white;
+    margin-left: 25px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 100%;
+}
+
