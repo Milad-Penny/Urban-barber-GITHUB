@@ -27,6 +27,7 @@ html, body {
     border-radius: 100px;
     margin-top: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 0%;
     
 }
 
@@ -51,4 +52,11 @@ html, body {
 
 .dot-right {
     margin-right: 300px;
+}
+
+.Blackline {
+    border-color: black;
+    border-style: solid;
+    margin-top: 1%;
+    background-color: grey;
 }
