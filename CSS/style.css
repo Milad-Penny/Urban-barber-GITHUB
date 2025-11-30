@@ -1,16 +1,29 @@
 body {
     background-image: url(../Assets/Wall.jpg);
-    margin: 0;
-    border: 30px solid black;
-    box-sizing: border-box;
+    border: 35px solid black;
+    margin: 0%;
 }
 
 html, body {
     height: 100%;
+    box-sizing: border-box;
 }
 
-.MainHeader {
-    text-align: center;
-    font-size: 100px;
-    margin-top: 10px;
+.header-container {
+    display: flex;
+    align-items: center;
+    gap: 25px;
 }
+
+ .title {
+    text-align: center;
+}
+
+.Logo {
+    color: white;
+    margin-left: 25px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 100%;
+}
+
