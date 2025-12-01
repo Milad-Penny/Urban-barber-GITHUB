@@ -64,3 +64,10 @@ html, body {
     background-color: rgb(50, 50, 50)
     
 }
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+}
