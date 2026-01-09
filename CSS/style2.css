@@ -1,0 +1,13 @@
+body {
+ height: 100%;
+ margin: auto;
+ box-sizing: border-box;
+}
+
+.bg-image {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    position: fixed;
+    background-image: url(../Assets/Screenshot\ 2026-01-09\ 095447.png);
+    inset: 0;
+}
