@@ -130,3 +130,10 @@ html, body {
     display: flex;
     margin-left: 10px;
 }
+
+.under-buttons-L {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 350px;
+}
