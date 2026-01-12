@@ -88,12 +88,17 @@ html, body {
     background-color: goldenrod;
     font-size: 40px;
     margin-top: 0%;
+    margin-bottom: 10px;
     border-top: 10px;
     border-left: 10px;
     border-right: 10px;
     border-width: 6px;
     font-weight: bolder;
-    
+}
+
+.card img {
+    width: 450px;
+    height: 300px;
 }
 
 .card button {
@@ -104,7 +109,7 @@ html, body {
     width: 425px;
     height: 75px;
     margin-left: 12px;
-    margin-top: 100px;
+    margin-top: px;
     font-weight: bold;
     transition: transform 0.3s ease;
 }
@@ -128,12 +133,79 @@ html, body {
     align-items: center;
     justify-content: center;
     display: flex;
-    margin-left: 10px;
 }
 
 .under-buttons-L {
     display: flex;
     justify-content: center;
-    gap: 30px;
-    margin-top: 350px;
+    gap: 80px;
+    margin-top: 40px;
+}
+
+.tiktok button {
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 7px;
+    transition: transform 0.3s ease;
+}
+
+.reviews button {
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 7px;
+    transition: transform 0.3s ease;
+}
+
+.instagram button {
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 7px;
+    transition: transform 0.3s ease;
+}
+
+.contact button {
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 50px;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 7px;
+    transition: transform 0.3s ease;
+}
+
+.tiktok button:hover {
+    background-color: rgb(168, 128, 25);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+
+.reviews button:hover {
+    background-color: rgb(168, 128, 25);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+
+.instagram button:hover {
+    background-color: rgb(168, 128, 25);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+}
+
+.contact button:hover {
+    background-color: rgb(168, 128, 25);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
 }
