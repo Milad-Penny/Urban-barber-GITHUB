@@ -11,6 +11,7 @@ body{
    margin-top: 25px;
    margin-left: 550px;
    margin-right: 600px;
+   padding-bottom: 15px;
    text-align: center;
    font-size: 50px;
 }
@@ -20,7 +21,7 @@ h3 {
 }
 
 p1 {
-    font-size: 40px;
+    font-size: 30px;
 }
 p {
     background-color: grey;
@@ -30,3 +31,16 @@ p {
     font-size: 35px;
 }
 
+button {
+    background-color: red;
+    font-size: large;
+    padding: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+}
+
+button:hover {
+    background-color: rgb(200, 0, 0);
+    cursor: pointer;
+}
