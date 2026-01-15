@@ -5,10 +5,16 @@ h1 {
 }
 
 .troll button {
-    margin-left: 800px;
+    margin-left: 680px;
     margin-top: 200px;
+    font-size: 25px;
 }
 
 .troll button:hover {
     cursor: pointer;
+}
+
+img {
+    margin-top: 346px;
+    margin-left: -8px;
 }
