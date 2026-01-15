@@ -1,0 +1,24 @@
+body {
+    background-image: url(../Assets/blurshot-edited-2026-01-13T13-39-31.jpg);
+}
+
+.bevestiging {
+    display: flex;
+    justify-content: center;
+}
+
+.bevestiging button {
+    margin-top: 200px;
+    padding-left: 600px;
+    padding-right: 600px;
+    border-radius: 70px;
+    background-color: green;
+}
+
+.bevestiging button:hover {
+    cursor: pointer;
+}
+
+p {
+    font-size: 20px;
+}
