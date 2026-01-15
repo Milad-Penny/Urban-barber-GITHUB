@@ -15,8 +15,28 @@ body {
    display: flex;
    flex-direction: column;
    font-size: 15px;
+   border-radius: 25px;
+   padding-bottom: 25px;
 }
 
+.m-bord button {
+    background-color: red;
+    font-size: 25px;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+.m-bord button:hover {
+    background-color: darkred;
+}
+
+h1 {
+    font-size: 50px;
+}
 h2 {
-    justify-content: left;
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
 }

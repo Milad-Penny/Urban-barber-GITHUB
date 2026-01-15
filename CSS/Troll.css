@@ -1,0 +1,14 @@
+h1 {
+    justify-content: center;
+    display: flex;
+    margin-top: 200px;
+}
+
+.troll button {
+    margin-left: 800px;
+    margin-top: 200px;
+}
+
+.troll button:hover {
+    cursor: pointer;
+}

@@ -7,9 +7,9 @@ body {
     background-color: goldenrod;
     border-style: solid;
    border-color: black;
+   border-radius: 25px;
    border-width: 10px;
-   border-radius:;
-   margin-top: 40px;
+   margin-top: 25px;
    margin-left: 100px;
    margin-right: 100px;
    padding-bottom: 50px;
@@ -111,11 +111,15 @@ input {
 .bevestigen {
     background-color: green;
     font-size: 30px;
+    border-radius: 25px;
+    padding: 10px;
 }
 
 .terug {
     background-color: red;
     font-size: 30px;
+    border-radius: 25px;
+    padding: 10px;
 }
 
 .bevestigen:hover {
